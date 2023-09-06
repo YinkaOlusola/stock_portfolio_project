@@ -2,7 +2,7 @@
 
 <br>
 
-### This is a sample project, required for the fulfillment of some requirements.
+### This is an assignment sample project.
 
 <br>
 
