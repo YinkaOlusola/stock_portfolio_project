@@ -1,2 +1,0 @@
-notebook_old.ipynb
-Untitled.ipynb
