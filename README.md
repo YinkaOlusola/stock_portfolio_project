@@ -2,7 +2,9 @@
 
 <br>
 
-### This is an assignment sample project.
+### A Python-based quantitative system implementing Markowitz's Modern Portfolio Theory (MPT)
+
+## This project optimizes asset allocations to reduce portfolio volatility and increase annualized returns.
 
 <br>
 
